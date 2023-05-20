@@ -1,1 +1,1 @@
-# project
+# bank-management-qt-project
